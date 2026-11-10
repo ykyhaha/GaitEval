@@ -1,0 +1,38 @@
+{
+  "ASD-Kinect": {
+    "file": "predictions/asd_kinect.jsonl",
+    "classes": 2,
+    "n": 20,
+    "expected_macro_f1": 0.31
+  },
+  "ATAXIA": {
+    "file": "predictions/ataxia.jsonl",
+    "classes": 2,
+    "n": 1647,
+    "expected_macro_f1": 0.751
+  },
+  "CARE-PD": {
+    "file": "predictions/care_pd.jsonl",
+    "classes": 4,
+    "n": 665,
+    "expected_macro_f1": 0.445
+  },
+  "GMFCS": {
+    "file": "predictions/gmfcs.jsonl",
+    "classes": 4,
+    "n": 866,
+    "expected_macro_f1": 0.259
+  },
+  "PARKINSONISM": {
+    "file": "predictions/parkinsonism.jsonl",
+    "classes": 2,
+    "n": 120,
+    "expected_macro_f1": 0.454
+  },
+  "PATHOGAIT": {
+    "file": "predictions/pathogait.jsonl",
+    "classes": 6,
+    "n": 2181,
+    "expected_macro_f1": 0.609
+  }
+}
