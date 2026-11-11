@@ -56,5 +56,5 @@ quality. GPU training and generation have not been rerun for this code release.
 No manuscript sources, clinical recordings, model checkpoints or paper working
 archives are included.
 
-Project website: https://gaiteval-six-dataset-v2.ky20545083.chatgpt.site/
+Project website: https://ykyhaha.github.io/GaitEval-v2/
 
