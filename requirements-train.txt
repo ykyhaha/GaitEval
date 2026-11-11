@@ -1,0 +1,7 @@
+# Training API versions recorded by the source training script.
+torch
+datasets
+accelerate
+transformers==4.57.3
+peft==0.13.2
+trl==0.11.4
